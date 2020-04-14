@@ -1,3 +1,3 @@
-ITEM.Name = "S.A.S Agent"
-ITEM.Price = 5000
-ITEM.Model = "models/motoess/sas/sas-1.mdl"
+ITEM.Name = "mario penguin"
+ITEM.Price = "10000"
+ITEM.Model = "models/Griesmar_WorkShop/SMP/Penguin/Penguin_NPC.mdl
